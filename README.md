@@ -10,7 +10,7 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/susanta-tech/susanta-tech/blob/main/programmer2.gif">
 
-- 📄 Know about my experiences <a href="https://github.com/susanta-tech/susanta-tech/blob/main/SusantaCV%202023.pdf" download="SusantaResume">
+- 📄 Know about my experiences <a href="https://github.com/susanta-tech/susanta-tech/blob/main/Susanta%resume%2024.pdf" download="SusantaResume">
   <img align="middle" src="https://github.com/susanta-tech/susanta-tech/blob/main/resume-cv.avif" alt="resume" width="30" height="40">
 </a>
 
